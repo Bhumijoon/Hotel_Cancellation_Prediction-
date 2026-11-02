@@ -1,0 +1,11 @@
+{
+  "Accuracy": 0.849,
+  "Precision": 0.723,
+  "Recall": 0.772,
+  "F1 Score": 0.747,
+  "ROC-AUC": 0.913,
+  "model": "Random Forest",
+  "train_rows": 20642,
+  "test_rows": 5161,
+  "cancellation_rate": 0.288
+}
