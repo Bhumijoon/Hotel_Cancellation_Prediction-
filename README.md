@@ -2,7 +2,7 @@
 
 A machine learning app that predicts whether a hotel booking will be **cancelled**, and recommends what the hotel should do about it.
 
-**🔗 Live app:** `https://YOUR-APP-NAME.streamlit.app` *(replace with your deployed link)*
+**🔗 Live app:** https://hotel-cancellation-cia-2.streamlit.app/
 
 ![App screenshot](images/app_screenshot.png)
 
@@ -82,7 +82,7 @@ About **29% of bookings** in our data were cancelled.
 
 ## 7. How to Run the App Locally
 ```bash
-git clone https://github.com/YOUR-USERNAME/hotel-cancellation-prediction.git
+git clone https://github.com/Bhumijoon/hotel-cancellation-prediction.git
 cd hotel-cancellation-prediction
 pip install -r requirements.txt
 streamlit run app.py
@@ -112,4 +112,7 @@ To re-train the model, open `Hotel_Cancellation_Prediction.ipynb` in Jupyter and
   - connect the app to the hotel's live booking system
 
 ## 10. Team
-*(Add the names of all 5 group members here)*
+Team Members Names : 
+Bhumi Joon - 25MBAR0944
+Jyoti Yadav - 25MBAR1222
+Arya Aditi - 25MBAR0936
